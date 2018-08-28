@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name SparkFun-DigitalIC)(type Legacy)(uri /Users/technix/Developer/KiCad/LPC2103-EVK/SparkFun-DigitalIC.lib)(options "")(descr ""))
+)
