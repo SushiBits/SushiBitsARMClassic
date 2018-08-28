@@ -5,10 +5,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 3
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "SushiBits ARM Classic"
+Date "2018-08-28"
+Rev "v1r1"
+Comp "SushiBits"
 Comment1 ""
 Comment2 ""
 Comment3 ""

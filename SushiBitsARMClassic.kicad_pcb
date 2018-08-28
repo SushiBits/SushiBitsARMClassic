@@ -11,7 +11,10 @@
 
   (page A4)
   (title_block
-    (date "lun. 30 mars 2015")
+    (title "SushiBits ARM Classic")
+    (date 2018-08-28)
+    (rev v1r1)
+    (company SushiBits)
   )
 
   (layers
