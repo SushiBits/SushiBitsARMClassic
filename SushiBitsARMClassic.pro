@@ -1,4 +1,4 @@
-update=2018 August 27, Monday 01:38:37
+update=2018 August 28, Tuesday 13:28:12
 version=1
 last_client=kicad
 [pcbnew]
@@ -31,10 +31,10 @@ LibDir=
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
-PlotDirectoryName=
+PlotDirectoryName=Gerber
 SubpartIdSeparator=0
 SubpartFirstId=65
-NetFmtName=
+NetFmtName=Pcbnew
 SpiceAjustPassiveValues=0
 LabSize=50
 ERC_TestSimilarLabels=1
